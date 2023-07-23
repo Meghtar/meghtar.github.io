@@ -1,7 +1,9 @@
 # Summary
 
 This is [Chill Hack](https://tryhackme.com/room/chillhack) box from TryHackMe.
-#### TODO: main points
+\
+\
+Nice machine containing out-of-the-box RCE, escalation using sudo and docker, getting information from picture using steganography.
 
 # Recon
 
